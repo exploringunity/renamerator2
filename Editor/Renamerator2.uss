@@ -1,0 +1,13 @@
+Button {
+    margin: 5px 20px;
+    padding: 5px;
+    -unity-font-style: bold;
+}
+
+Label {
+    margin-left: 5px;
+}
+
+#numSelectedLbl {
+    -unity-font-style: italic;
+}
